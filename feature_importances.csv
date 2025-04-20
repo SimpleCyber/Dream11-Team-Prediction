@@ -1,0 +1,9 @@
+feature,importance
+binary_passthrough__is_hot_batter,0.2825264
+binary_passthrough__is_hot_bowler,0.15581606
+binary_passthrough__is_cold_bowler,0.12444199
+imputer__batting_ipl_avg,0.11462681
+imputer__bowling_ipl_econ,0.10253347
+scaler__batting_ipl_avg,0.10060546
+scaler__bowling_ipl_econ,0.086326234
+binary_passthrough__is_cold_batter,0.033123583

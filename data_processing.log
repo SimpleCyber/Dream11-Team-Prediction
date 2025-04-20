@@ -1,0 +1,29 @@
+2025-04-19 14:48:22,776 - INFO - Starting pipeline for match 22
+2025-04-19 14:48:22,777 - INFO - Loading and processing data...
+2025-04-19 14:48:22,808 - WARNING - Missing hot_batter file, using empty dataframe
+2025-04-19 14:48:22,834 - ERROR - Data processing failed: 'player1'
+2025-04-19 14:48:22,835 - ERROR - Pipeline failed: Data processing failed
+2025-04-19 15:03:57,136 - WARNING - File not found: Data\matchup\hot_batters.csv
+2025-04-19 15:03:57,247 - WARNING - Missing venue_stats.csv file, skipping this step
+2025-04-19 15:04:55,245 - WARNING - Missing venue_stats.csv file, skipping this step
+2025-04-19 15:10:34,273 - WARNING - Missing venue_stats.csv file, skipping this step
+2025-04-19 15:17:30,902 - WARNING - Missing venue_stats.csv file, skipping this step
+2025-04-20 14:13:54,147 - WARNING - Adding missing 'Credits' column...
+2025-04-20 14:15:29,053 - WARNING - Adding missing 'Credits' column...
+2025-04-20 14:16:36,033 - INFO - Saved merged data: Data\merged\merged_match_1.csv
+2025-04-20 14:16:36,035 - INFO - Successfully processed 228 players
+2025-04-20 14:16:36,037 - INFO - Final columns: ['team', 'player_name', 'Player Type', 'batting_t20_m', 'batting_t20_inn', 'batting_t20_runs', 'batting_t20_bf', 'batting_t20_hs', 'batting_t20_avg', 'batting_t20_sr', 'batting_t20_no', 'batting_t20_4s', 'batting_t20_6s', 'batting_t20_50', 'batting_t20_100', 'batting_t20_200', 'bowling_t20_m', 'bowling_t20_inn', 'bowling_t20_b', 'bowling_t20_runs', 'bowling_t20_wkts', 'bowling_t20_avg', 'bowling_t20_econ', 'bowling_t20_sr', 'bowling_t20_bbi', 'bowling_t20_bbm', 'bowling_t20_5w', 'bowling_t20_10w', 'batting_ipl_m', 'batting_ipl_inn', 'batting_ipl_runs', 'batting_ipl_bf', 'batting_ipl_hs', 'batting_ipl_avg', 'batting_ipl_sr', 'batting_ipl_no', 'batting_ipl_4s', 'batting_ipl_6s', 'batting_ipl_50', 'batting_ipl_100', 'batting_ipl_200', 'bowling_ipl_m', 'bowling_ipl_inn', 'bowling_ipl_b', 'bowling_ipl_runs', 'bowling_ipl_wkts', 'bowling_ipl_avg', 'bowling_ipl_econ', 'bowling_ipl_sr', 'bowling_ipl_bbi', 'bowling_ipl_bbm', 'bowling_ipl_5w', 'bowling_ipl_10w', 'boundary_ratio', 'batting_consistency', 'economy_impact', 'strike_power', 'is_allrounder', 'player', 'Credits', 'is_hot_batter', 'is_cold_batter', 'is_hot_bowler', 'is_cold_bowler', 'fantasy_points', 'partnership_avg', 'recent_form', 'blom']
+2025-04-20 14:17:17,843 - INFO - Successfully loaded data for match 1
+2025-04-20 14:17:58,338 - INFO - 'partnership_avg' column loaded for match 1
+2025-04-20 14:18:12,203 - INFO - 'partnership_avg' column loaded for match 1
+2025-04-20 14:18:13,028 - INFO - 'partnership_avg' column loaded for match 1
+2025-04-20 14:18:13,271 - INFO - 'partnership_avg' column loaded for match 1
+2025-04-20 14:19:13,263 - INFO - 'partnership_avg' column loaded for match 1
+2025-04-20 19:22:49,855 - ERROR - Input validation failed: Missing columns: ['player', 'team']
+2025-04-20 19:22:49,855 - ERROR - Pipeline failed: Team optimization failed
+2025-04-20 19:23:18,150 - ERROR - Data processing failed: Lineup file Data\lineups\Match_36_Lineup.csv not found
+2025-04-20 19:24:10,419 - ERROR - Input validation failed: Missing columns: ['player', 'team']
+2025-04-20 19:24:10,420 - ERROR - Pipeline failed: Team optimization failed
+2025-04-20 19:24:49,588 - WARNING - Credits column missing — assigning default values based on player type.
+2025-04-20 19:25:03,248 - WARNING - Credits column missing — assigning default values based on player type.
+2025-04-20 19:25:03,355 - ERROR - Pipeline failed: 'predicted_points'

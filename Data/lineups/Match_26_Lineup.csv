@@ -1,0 +1,50 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+8,ALL,Aiden Markram,LSG,PLAYING,2
+7,ALL,Rahul Tewatia,GT,PLAYING,7
+7,ALL,Shahrukh Khan,GT,PLAYING,6
+7.5,ALL,Washington Sundar,GT,PLAYING,4
+6,ALL,Karim Janat,GT,NOT_PLAYING,0
+5.5,ALL,Manav Suthar,GT,NOT_PLAYING,0
+6.5,ALL,Shahbaz Ahmed,LSG,X_FACTOR_SUBSTITUTE,14
+5,ALL,Yuvraj Chaudhary,LSG,NOT_PLAYING,0
+6.5,ALL,Arshad Khan,GT,PLAYING,8
+6,ALL,Arshin Kulkarni,LSG,NOT_PLAYING,0
+5.5,ALL,Nishant Sindhu,GT,X_FACTOR_SUBSTITUTE,14
+9,WK,Jos Buttler,GT,PLAYING,3
+9,WK,Nicholas Pooran,LSG,PLAYING,1
+8,WK,Rishabh Pant,LSG,PLAYING,3
+6.5,WK,Anuj Rawat,GT,X_FACTOR_SUBSTITUTE,15
+5.5,WK,Aryan Juyal,LSG,NOT_PLAYING,0
+5.5,WK,Kumar Kushagra,GT,NOT_PLAYING,0
+8.5,BAT,Mitchell Marsh,LSG,NOT_PLAYING,0
+7.5,BAT,David Miller,LSG,PLAYING,5
+7,BAT,Glenn Phillips,GT,NOT_PLAYING,0
+5.5,BAT,Himmat Singh,LSG,PLAYING,4
+6.5,BAT,Mahipal Lomror,GT,X_FACTOR_SUBSTITUTE,13
+9,BAT,Shubman Gill,GT,PLAYING,1
+6,BAT,Matthew Breetzke,LSG,X_FACTOR_SUBSTITUTE,15
+8,BAT,Sherfane Rutherford,GT,PLAYING,5
+7,BAT,Ayush Badoni,LSG,X_FACTOR_SUBSTITUTE,12
+6.5,BAT,Abdul Samad,LSG,PLAYING,7
+8.5,BAT,Sai Sudharsan,GT,PLAYING,2
+7,BOWL,Ishant Sharma,GT,NOT_PLAYING,0
+7.5,BOWL,Avesh Khan,LSG,PLAYING,10
+7.5,BOWL,Kagiso Rabada,GT,NOT_PLAYING,0
+8,BOWL,Shardul Thakur,LSG,PLAYING,8
+6.5,BOWL,Jayant Yadav,GT,X_FACTOR_SUBSTITUTE,16
+7.5,BOWL,Prasidh Krishna,GT,X_FACTOR_SUBSTITUTE,12
+8,BOWL,Rashid-Khan,GT,PLAYING,9
+8.5,BOWL,Mohammed Siraj,GT,PLAYING,11
+8,BOWL,Ravisrinivasan Sai Kishore,GT,PLAYING,10
+6,BOWL,Kulwant Khejroliya,GT,NOT_PLAYING,0
+6,BOWL,Manimaran Siddharth,LSG,NOT_PLAYING,0
+6.5,BOWL,Gerald Coetzee,GT,NOT_PLAYING,0
+5.5,BOWL,Rajvardhan Hangargekar,LSG,NOT_PLAYING,0
+7.5,BOWL,Ravi Bishnoi,LSG,PLAYING,11
+6,BOWL,Akash Singh,LSG,NOT_PLAYING,0
+7,BOWL,Akash Deep,LSG,PLAYING,9
+6.5,BOWL,Mayank Yadav,LSG,NOT_PLAYING,0
+5.5,BOWL,Gurnoor Brar Singh,GT,NOT_PLAYING,0
+6,BOWL,Shamar Joseph,LSG,X_FACTOR_SUBSTITUTE,16
+6,BOWL,Prince Yadav,LSG,X_FACTOR_SUBSTITUTE,13
+7,BOWL,Digvesh Singh,LSG,PLAYING,6

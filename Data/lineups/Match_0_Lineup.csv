@@ -1,0 +1,33 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+7.5,All Rounder,Iqbal Abdulla,DG,PLAYING,7
+8,All Rounder,Isuru Udana,DG,PLAYING,8
+9,All Rounder,Robert Frylinck,PNS,NOT_PLAYING,0
+7,All Rounder,Seekkuge Prasanna,DG,PLAYING,6
+8,All Rounder,Javon Searles,PNS,PLAYING,7
+6.5,All Rounder,Anand-Singh,PNS,PLAYING,3
+7,All Rounder,Ayan Khan,PNS,PLAYING,5
+6.5,All Rounder,Deepansh Kumar,DG,NOT_PLAYING,0
+6,All Rounder,Udit Mohan,DG,NOT_PLAYING,0
+6,All Rounder,Himanshu Bishnoi,PNS,PLAYING,6
+7.5,Wicket Keeper,William Perkins,PNS,PLAYING,1
+7.5,Wicket Keeper,Brendan Taylor,DG,PLAYING,5
+9,Wicket Keeper,Kennar Lewis,PNS,NOT_PLAYING,0
+6,Wicket Keeper,Rahul Mahesh Yadav,DG,PLAYING,3
+6.5,Wicket Keeper,Maninder Singh,DG,NOT_PLAYING,0
+9,Batsmen,Narsingh Deonarine,PNS,PLAYING,4
+8.5,Batsmen,Jesse Ryder,PNS,PLAYING,2
+8,Batsmen,Kevin O'brien,DG,PLAYING,2
+7.5,Batsmen,Richard Levi,DG,PLAYING,1
+6.5,Batsmen,Danza Hyatt,PNS,NOT_PLAYING,0
+6.5,Batsmen,Kithuruwan Vithanage,DG,PLAYING,4
+8,Batsmen,Andre McIntosh McCarthy,PNS,NOT_PLAYING,0
+6,Batsmen,Shivakant Shukla,PNS,NOT_PLAYING,0
+7.5,Bowlers,Dave Mohammed,PNS,PLAYING,9
+6.5,Bowlers,Siddharth Trivedi,DG,PLAYING,10
+8.5,Bowlers,Ishwar Pandey,PNS,PLAYING,10
+6.5,Bowlers,Luke Fletcher,DG,PLAYING,9
+6.5,Bowlers,Vikas Tokas,DG,PLAYING,11
+9,Bowlers,Jon-Russ Jaggesar,PNS,PLAYING,8
+7,Bowlers,Mohmad Ajrudeen,PNS,NOT_PLAYING,0
+7,Bowlers,Nicholson Gordon,PNS,PLAYING,11
+7,Bowlers,Ravi Balara,DG,NOT_PLAYING,0
