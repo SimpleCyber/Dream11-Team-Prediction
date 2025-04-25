@@ -1,0 +1,28 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+
+8,ALL,Abhishek Sharma,SRH,PLAYING,1
+7,ALL,Kamindu Mendis,SRH,NOT_PLAYING,0
+9,WK,Heinrich Klaasen,SRH,PLAYING,5
+8,WK,Ishan Kishan,SRH,PLAYING,3
+8,BAT,K Nitish Reddy,SRH,PLAYING,4
+7,BAT,Aniket Verma,SRH,PLAYING,6
+8.5,BOWL,Mohammed Shami,SRH,PLAYING,9
+8,BOWL,Pat Cummins,SRH,PLAYING,7
+7.5,BOWL,Harshal Patel,SRH,PLAYING,8
+6.5,BOWL,Zeeshan Ansari,SRH,PLAYING,10
+6.5,BOWL,Simarjeet- Singh,SRH,NOT_PLAYING,0
+
+
+7,ALL,Sam Curran,CHE,NOT_PLAYING,0
+7,WK,MS Dhoni,CHE,PLAYING,6
+7.5,WK,Devon Conway,CHE,PLAYING,2
+6.5,BOWL,Mukesh Choudhary,CHE,PLAYING,9
+7,BOWL,Nathan Ellis,CHE,NOT_PLAYING,0
+
+5,BAT,Shaik Rasheed,CHE,NOT_PLAYING,0
+8,BAT,Shivam Dube,CHE,X_FACTOR_SUBSTITUTE,12
+8.5,ALL,Ravindra Jadeja,CHE,PLAYING,5
+6.5,BAT,Deepak Hooda,CHE,X_FACTOR_SUBSTITUTE,14
+8.5,BOWL,Noor Ahmad,CHE,PLAYING,8
+8.5,BOWL,Matheesha Pathirana,CHE,PLAYING,11
+7.5,BOWL,Khaleel Ahmed,CHE,PLAYING,10
