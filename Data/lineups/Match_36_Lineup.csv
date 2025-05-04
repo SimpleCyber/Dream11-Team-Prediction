@@ -43,3 +43,8 @@ Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
 6,BOWL,Shamar Joseph,LSG,NOT_PLAYING,0
 6,BOWL,Prince Yadav,LSG,PLAYING,7
 7,BOWL,Digvesh Singh,LSG,PLAYING,9
+
+5,BAT,Vaibhav Suryavanshi,RR,X_FACTOR_SUBSTITUTE,12
+5,WK,Kunal Singh Rathore,RR,X_FACTOR_SUBSTITUTE,16
+6,BOWL,Akash Madhwal,RR,X_FACTOR_SUBSTITUTE,15
+6.5,ALL,Yudhvir Singh Charak,RR,X_FACTOR_SUBSTITUTE,13
