@@ -1,0 +1,43 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+8,ALL,Axar Patel,DC,PLAYING,5
+7,ALL,Vipraj Nigam,DC,PLAYING,8
+6.5,ALL,Donovan Ferreira,DC,X_FACTOR_SUBSTITUTE,15
+5.5,ALL,Manvanth Kumar L,DC,NOT_PLAYING,0
+5.5,ALL,Ajay Mandal,DC,NOT_PLAYING,0
+5,ALL,Madhav Tiwari,DC,NOT_PLAYING,0
+8.5,ALL,Riyan Parag,RR,PLAYING,4
+7.5,ALL,Wanindu Hasaranga,RR,PLAYING,7
+7,ALL,Nitish Rana,RR,PLAYING,3
+6.5,ALL,Yudhvir Singh Charak,RR,X_FACTOR_SUBSTITUTE,13
+9,WK,Lokesh Rahul,DC,PLAYING,4
+7,WK,Abishek Porel,DC,PLAYING,2
+9,WK,Sanju Samson,RR,PLAYING,2
+8,WK,Dhruv Jurel,RR,PLAYING,5
+5,WK,Kunal Singh Rathore,RR,X_FACTOR_SUBSTITUTE,16
+8,BAT,Faf du Plessis,DC,NOT_PLAYING,0
+8,BAT,Tristan Stubbs,DC,PLAYING,6
+7.5,BAT,Ashutosh Sharma,DC,PLAYING,7
+7,BAT,Jake Fraser-McGurk,DC,PLAYING,1
+6.5,BAT,Sameer Rizvi,DC,X_FACTOR_SUBSTITUTE,13
+6.5,BAT,Karun Nair,DC,PLAYING,3
+8.5,BAT,Yashasvi Jaiswal,RR,PLAYING,1
+8,BAT,Shimron Hetmyer,RR,PLAYING,6
+6,BAT,Shubham Dubey,RR,X_FACTOR_SUBSTITUTE,12
+5,BAT,Vaibhav Suryavanshi,RR,NOT_PLAYING,0
+9,BOWL,Mitchell Starc,DC,PLAYING,9
+8.5,BOWL,Kuldeep Yadav,DC,PLAYING,10
+7.5,BOWL,Mukesh Kumar,DC,X_FACTOR_SUBSTITUTE,12
+7,BOWL,Mohit Sharma,DC,PLAYING,11
+6.5,BOWL,T Natarajan,DC,NOT_PLAYING,0
+6.5,BOWL,Dushmantha Chameera,DC,NOT_PLAYING,0
+6,BOWL,Darshan Nalkande,DC,X_FACTOR_SUBSTITUTE,14
+5.5,BOWL,Tripurana Vijay,DC,X_FACTOR_SUBSTITUTE,16
+8.5,BOWL,Jofra Archer,RR,PLAYING,8
+7.5,BOWL,Maheesh Theekshana,RR,PLAYING,9
+7.5,BOWL,Sandeep Sharma,RR,PLAYING,10
+7,BOWL,Tushar Deshpande,RR,PLAYING,11
+6.5,BOWL,Kumar Kartikeya,RR,X_FACTOR_SUBSTITUTE,14
+6.5,BOWL,FazalHaq Farooqi,RR,NOT_PLAYING,0
+6,BOWL,Akash Madhwal,RR,X_FACTOR_SUBSTITUTE,15
+5.5,BOWL,Kwena Maphaka,RR,NOT_PLAYING,0
+5,BOWL,Ashok Sharma,RR,NOT_PLAYING,0

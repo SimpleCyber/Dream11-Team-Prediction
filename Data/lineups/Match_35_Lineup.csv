@@ -1,0 +1,48 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+5.5,ALL,Nishant Sindhu,GT,NOT_PLAYING,0
+6.5,ALL,Arshad Khan,GT,PLAYING,6
+5.5,ALL,Manav Suthar,GT,NOT_PLAYING,0
+6,ALL,Karim Janat,GT,X_FACTOR_SUBSTITUTE,16
+7,ALL,Washington Sundar,GT,X_FACTOR_SUBSTITUTE,15
+6.5,ALL,Shahrukh Khan,GT,PLAYING,4
+6,ALL,Rahul Tewatia,GT,PLAYING,5
+5.5,ALL,Ajay Mandal,DC,NOT_PLAYING,0
+8,ALL,Axar Patel,DC,PLAYING,4
+6.5,ALL,Donovan Ferreira,DC,X_FACTOR_SUBSTITUTE,15
+5,ALL,Madhav Tiwari,DC,NOT_PLAYING,0
+5,ALL,Manvanth Kumar L,DC,NOT_PLAYING,0
+7,ALL,Vipraj Nigam,DC,PLAYING,7
+6,ALL,Dasun Shanaka,GT,NOT_PLAYING,0
+5.5,WK,Kumar Kushagra,GT,NOT_PLAYING,0
+6.5,WK,Anuj Rawat,GT,X_FACTOR_SUBSTITUTE,14
+9,WK,Jos Buttler,GT,PLAYING,3
+7.5,WK,Abishek Porel,DC,PLAYING,1
+9,WK,Lokesh Rahul,DC,PLAYING,3
+9,BAT,Sai Sudharsan,GT,PLAYING,2
+8,BAT,Sherfane Rutherford,GT,X_FACTOR_SUBSTITUTE,12
+9,BAT,Shubman Gill,GT,PLAYING,1
+6.5,BAT,Mahipal Lomror,GT,X_FACTOR_SUBSTITUTE,13
+7,BAT,Ashutosh Sharma,DC,PLAYING,6
+8,BAT,Faf du Plessis,DC,NOT_PLAYING,0
+6.5,BAT,Jake Fraser-McGurk,DC,X_FACTOR_SUBSTITUTE,12
+6.5,BAT,Karun Nair,DC,PLAYING,2
+6,BAT,Sameer Rizvi,DC,X_FACTOR_SUBSTITUTE,13
+8,BAT,Tristan Stubbs,DC,PLAYING,5
+5.5,BOWL,Gurnoor Brar Singh,GT,NOT_PLAYING,0
+6.5,BOWL,Gerald Coetzee,GT,NOT_PLAYING,0
+6,BOWL,Kulwant Khejroliya,GT,NOT_PLAYING,0
+8,BOWL,Ravisrinivasan Sai Kishore,GT,PLAYING,7
+8.5,BOWL,Mohammed Siraj,GT,PLAYING,9
+8,BOWL,Rashid-Khan,GT,PLAYING,8
+8,BOWL,Prasidh Krishna,GT,PLAYING,10
+6.5,BOWL,Jayant Yadav,GT,NOT_PLAYING,0
+7.5,BOWL,Kagiso Rabada,GT,NOT_PLAYING,0
+7,BOWL,Ishant Sharma,GT,PLAYING,11
+6,BOWL,Darshan Nalkande,DC,X_FACTOR_SUBSTITUTE,14
+6,BOWL,Dushmantha Chameera,DC,X_FACTOR_SUBSTITUTE,16
+8.5,BOWL,Kuldeep Yadav,DC,PLAYING,9
+9,BOWL,Mitchell Starc,DC,PLAYING,8
+7,BOWL,Mohit Sharma,DC,PLAYING,10
+7.5,BOWL,Mukesh Kumar,DC,PLAYING,11
+6.5,BOWL,T Natarajan,DC,NOT_PLAYING,0
+5.5,BOWL,Tripurana Vijay,DC,NOT_PLAYING,0

@@ -1,0 +1,44 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+5.5,ALL,Ajay Mandal,DC,NOT_PLAYING,0
+8,ALL,Axar Patel,DC,PLAYING,5
+6.5,ALL,Donovan Ferreira,DC,X_FACTOR_SUBSTITUTE,16
+5,ALL,Madhav Tiwari,DC,NOT_PLAYING,0
+5,ALL,Manvanth Kumar L,DC,NOT_PLAYING,0
+7,ALL,Vipraj Nigam,DC,PLAYING,7
+5.5,ALL,Anukul Sudhakar Roy,KKR,PLAYING,10
+6,ALL,Ramandeep Singh,KKR,X_FACTOR_SUBSTITUTE,15
+7,ALL,Moeen Ali,KKR,NOT_PLAYING,0
+7.5,ALL,Andre Russell,KKR,PLAYING,7
+9,ALL,Sunil Narine,KKR,PLAYING,6
+7.5,WK,Abishek Porel,DC,PLAYING,1
+9,WK,Lokesh Rahul,DC,PLAYING,4
+5.5,WK,Luvnith Sisodia,KKR,X_FACTOR_SUBSTITUTE,16
+6.5,WK,Rahmanullah Gurbaz,KKR,PLAYING,1
+7.5,WK,Quinton de Kock,KKR,NOT_PLAYING,0
+7,BAT,Ashutosh Sharma,DC,X_FACTOR_SUBSTITUTE,13
+8,BAT,Faf du Plessis,DC,PLAYING,2
+6.5,BAT,Jake Fraser-McGurk,DC,X_FACTOR_SUBSTITUTE,14
+6.5,BAT,Karun Nair,DC,PLAYING,3
+6,BAT,Sameer Rizvi,DC,X_FACTOR_SUBSTITUTE,12
+8,BAT,Tristan Stubbs,DC,PLAYING,6
+7,BAT,Angkrish Raghuvanshi,KKR,PLAYING,5
+6.5,BAT,Rovman Powell,KKR,PLAYING,8
+7,BAT,Rinku Singh,KKR,PLAYING,4
+7.5,BAT,Venkatesh Iyer,KKR,PLAYING,2
+6.5,BAT,Manish Pandey,KKR,X_FACTOR_SUBSTITUTE,12
+8.5,BAT,Ajinkya Rahane,KKR,PLAYING,3
+6,BOWL,Darshan Nalkande,DC,NOT_PLAYING,0
+6,BOWL,Dushmantha Chameera,DC,PLAYING,10
+8.5,BOWL,Kuldeep Yadav,DC,PLAYING,9
+9,BOWL,Mitchell Starc,DC,PLAYING,8
+7,BOWL,Mohit Sharma,DC,NOT_PLAYING,0
+7.5,BOWL,Mukesh Kumar,DC,PLAYING,11
+6.5,BOWL,T Natarajan,DC,NOT_PLAYING,0
+5.5,BOWL,Tripurana Vijay,DC,X_FACTOR_SUBSTITUTE,15
+8,BOWL,Harshit Rana,KKR,PLAYING,9
+7.5,BOWL,Vaibhav Arora,KKR,X_FACTOR_SUBSTITUTE,14
+6,BOWL,Mayank Markande,KKR,X_FACTOR_SUBSTITUTE,13
+5.5,BOWL,Chetan Sakariya,KKR,NOT_PLAYING,0
+6.5,BOWL,Spencer Johnson,KKR,NOT_PLAYING,0
+8.5,BOWL,Varun Chakravarthy,KKR,PLAYING,11
+7,BOWL,Anrich Nortje,KKR,NOT_PLAYING,0

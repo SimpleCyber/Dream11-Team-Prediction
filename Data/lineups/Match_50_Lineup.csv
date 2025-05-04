@@ -1,0 +1,45 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+7.5,ALL,Will Jacks,MI,PLAYING,3
+9,ALL,Hardik Pandya,MI,PLAYING,6
+7,ALL,Mitchell Santner,MI,NOT_PLAYING,0
+6,ALL,Corbin Bosch,MI,PLAYING,8
+6,ALL,Yudhvir Singh Charak,RR,X_FACTOR_SUBSTITUTE,15
+8,ALL,Riyan Parag,RR,PLAYING,4
+7.5,ALL,Wanindu Hasaranga,RR,NOT_PLAYING,0
+6,WK,Robin Minz,MI,X_FACTOR_SUBSTITUTE,15
+5,WK,KL Shrijith,MI,NOT_PLAYING,0
+8.5,WK,Ryan Rickelton,MI,PLAYING,2
+5,WK,Kunal Singh Rathore,RR,X_FACTOR_SUBSTITUTE,14
+8,WK,Dhruv Jurel,RR,PLAYING,5
+8.5,WK,Sanju Samson,RR,NOT_PLAYING,0
+6,BAT,Bevon Jacobs,MI,NOT_PLAYING,0
+7,BAT,Naman Dhir,MI,PLAYING,7
+5.5,BAT,Raj Angad Bawa,MI,X_FACTOR_SUBSTITUTE,13
+8,BAT,Tilak Varma,MI,PLAYING,5
+9,BAT,Suryakumar Yadav,MI,PLAYING,4
+8.5,BAT,Rohit Sharma,MI,PLAYING,1
+7,BAT,Vaibhav Suryavanshi,RR,PLAYING,2
+6,BAT,Shubham Dubey,RR,X_FACTOR_SUBSTITUTE,12
+9,BAT,Yashasvi Jaiswal,RR,PLAYING,1
+7.5,BAT,Nitish Rana,RR,PLAYING,3
+7.5,BAT,Shimron Hetmyer,RR,PLAYING,6
+6.5,BOWL,Vignesh Puthur,MI,NOT_PLAYING,0
+6,BOWL,Satyanarayana Raju,MI,X_FACTOR_SUBSTITUTE,16
+6.5,BOWL,Ashwani Kumar,MI,NOT_PLAYING,0
+6,BOWL,Mujeeb-ur-Rahman,MI,NOT_PLAYING,0
+5,BOWL,Arjun Tendulkar,MI,NOT_PLAYING,0
+6,BOWL,Reece Topley,MI,X_FACTOR_SUBSTITUTE,14
+9,BOWL,Jasprit Bumrah,MI,PLAYING,11
+8.5,BOWL,Trent Boult,MI,PLAYING,10
+7,BOWL,Deepak Chahar,MI,PLAYING,9
+6.5,BOWL,Karn Sharma,MI,X_FACTOR_SUBSTITUTE,12
+5,BOWL,Ashok Sharma,RR,NOT_PLAYING,0
+5.5,BOWL,Kwena Maphaka,RR,X_FACTOR_SUBSTITUTE,16
+6,BOWL,Akash Madhwal,RR,PLAYING,10
+7,BOWL,Maheesh Theekshana,RR,PLAYING,8
+6.5,BOWL,Kumar Kartikeya,RR,PLAYING,9
+6.5,BOWL,FazalHaq Farooqi,RR,PLAYING,11
+7,BOWL,Tushar Deshpande,RR,X_FACTOR_SUBSTITUTE,13
+8.5,BOWL,Jofra Archer,RR,PLAYING,7
+7.5,BOWL,Sandeep Sharma,RR,NOT_PLAYING,0
+5,BOWL,Raghu Sharma,MI,NOT_PLAYING,0

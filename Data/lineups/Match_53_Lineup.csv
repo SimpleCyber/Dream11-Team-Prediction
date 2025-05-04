@@ -1,0 +1,42 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+5.5,ALL,Anukul Sudhakar Roy,KKR,X_FACTOR_SUBSTITUTE,14
+6,ALL,Ramandeep Singh,KKR,PLAYING,8
+7,ALL,Moeen Ali,KKR,PLAYING,9
+7.5,ALL,Andre Russell,KKR,PLAYING,7
+9,ALL,Sunil Narine,KKR,PLAYING,6
+6,ALL,Yudhvir Singh Charak,RR,PLAYING,10
+8,ALL,Riyan Parag,RR,PLAYING,4
+7.5,ALL,Wanindu Hasaranga,RR,PLAYING,7
+5.5,WK,Luvnith Sisodia,KKR,X_FACTOR_SUBSTITUTE,16
+6.5,WK,Rahmanullah Gurbaz,KKR,PLAYING,1
+7.5,WK,Quinton de Kock,KKR,NOT_PLAYING,0
+5,WK,Kunal Singh Rathore,RR,PLAYING,3
+8,WK,Dhruv Jurel,RR,PLAYING,5
+8.5,WK,Sanju Samson,RR,NOT_PLAYING,0
+7,BAT,Angkrish Raghuvanshi,KKR,PLAYING,5
+6.5,BAT,Rovman Powell,KKR,X_FACTOR_SUBSTITUTE,15
+7,BAT,Rinku Singh,KKR,PLAYING,4
+7.5,BAT,Venkatesh Iyer,KKR,PLAYING,2
+6.5,BAT,Manish Pandey,KKR,X_FACTOR_SUBSTITUTE,12
+8.5,BAT,Ajinkya Rahane,KKR,PLAYING,3
+7,BAT,Vaibhav Suryavanshi,RR,PLAYING,2
+6,BAT,Shubham Dubey,RR,X_FACTOR_SUBSTITUTE,12
+9,BAT,Yashasvi Jaiswal,RR,PLAYING,1
+7.5,BAT,Nitish Rana,RR,NOT_PLAYING,0
+7.5,BAT,Shimron Hetmyer,RR,PLAYING,6
+8,BOWL,Harshit Rana,KKR,X_FACTOR_SUBSTITUTE,13
+7.5,BOWL,Vaibhav Arora,KKR,PLAYING,10
+6,BOWL,Mayank Markande,KKR,NOT_PLAYING,0
+5.5,BOWL,Chetan Sakariya,KKR,NOT_PLAYING,0
+6.5,BOWL,Spencer Johnson,KKR,NOT_PLAYING,0
+8.5,BOWL,Varun Chakravarthy,KKR,PLAYING,11
+7,BOWL,Anrich Nortje,KKR,NOT_PLAYING,0
+5,BOWL,Ashok Sharma,RR,X_FACTOR_SUBSTITUTE,15
+5.5,BOWL,Kwena Maphaka,RR,X_FACTOR_SUBSTITUTE,16
+6,BOWL,Akash Madhwal,RR,PLAYING,11
+7,BOWL,Maheesh Theekshana,RR,PLAYING,9
+6.5,BOWL,Kumar Kartikeya,RR,X_FACTOR_SUBSTITUTE,14
+6.5,BOWL,FazalHaq Farooqi,RR,NOT_PLAYING,0
+7,BOWL,Tushar Deshpande,RR,X_FACTOR_SUBSTITUTE,13
+8.5,BOWL,Jofra Archer,RR,PLAYING,8
+7.5,BOWL,Sandeep Sharma,RR,NOT_PLAYING,0

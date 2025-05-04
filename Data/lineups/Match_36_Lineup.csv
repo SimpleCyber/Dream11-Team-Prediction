@@ -1,0 +1,45 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+8.5,ALL,Aiden Markram,LSG,PLAYING,1
+7,ALL,Nitish Rana,RR,PLAYING,3
+7.5,ALL,Wanindu Hasaranga,RR,PLAYING,7
+8.5,ALL,Riyan Parag,RR,PLAYING,4
+6.5,ALL,Shahbaz Ahmed,LSG,X_FACTOR_SUBSTITUTE,15
+5,ALL,Yuvraj Chaudhary,LSG,NOT_PLAYING,0
+6.5,ALL,Yudhvir Singh Charak,RR,X_FACTOR_SUBSTITUTE,13
+5.5,ALL,Arshin Kulkarni,LSG,NOT_PLAYING,0
+9,WK,Sanju Samson,RR,NOT_PLAYING,0
+9,WK,Nicholas Pooran,LSG,PLAYING,3
+7.5,WK,Rishabh Pant,LSG,PLAYING,4
+5.5,WK,Aryan Juyal,LSG,NOT_PLAYING,0
+8,WK,Dhruv Jurel,RR,PLAYING,5
+5,WK,Kunal Singh Rathore,RR,X_FACTOR_SUBSTITUTE,16
+9,BAT,Mitchell Marsh,LSG,PLAYING,2
+7.5,BAT,David Miller,LSG,PLAYING,5
+8,BAT,Shimron Hetmyer,RR,PLAYING,6
+5.5,BAT,Himmat Singh,LSG,X_FACTOR_SUBSTITUTE,14
+6,BAT,Matthew Breetzke,LSG,X_FACTOR_SUBSTITUTE,16
+7,BAT,Ayush Badoni,LSG,X_FACTOR_SUBSTITUTE,12
+9,BAT,Yashasvi Jaiswal,RR,PLAYING,1
+6.5,BAT,Abdul Samad,LSG,PLAYING,6
+6,BAT,Shubham Dubey,RR,PLAYING,2
+5,BAT,Vaibhav Suryavanshi,RR,X_FACTOR_SUBSTITUTE,12
+7,BOWL,Sandeep Sharma,RR,PLAYING,10
+7.5,BOWL,Avesh Khan,LSG,PLAYING,11
+8,BOWL,Shardul Thakur,LSG,PLAYING,8
+8.5,BOWL,Jofra Archer,RR,PLAYING,8
+7,BOWL,Tushar Deshpande,RR,PLAYING,11
+6,BOWL,Manimaran Siddharth,LSG,NOT_PLAYING,0
+6.5,BOWL,FazalHaq Farooqi,RR,NOT_PLAYING,0
+5.5,BOWL,Rajvardhan Hangargekar,LSG,NOT_PLAYING,0
+6.5,BOWL,Kumar Kartikeya,RR,X_FACTOR_SUBSTITUTE,14
+8,BOWL,Ravi Bishnoi,LSG,PLAYING,10
+5.5,BOWL,Akash Singh,LSG,NOT_PLAYING,0
+7,BOWL,Akash Deep,LSG,NOT_PLAYING,0
+7.5,BOWL,Maheesh Theekshana,RR,PLAYING,9
+6,BOWL,Akash Madhwal,RR,X_FACTOR_SUBSTITUTE,15
+6.5,BOWL,Mayank Yadav,LSG,X_FACTOR_SUBSTITUTE,13
+5.5,BOWL,Kwena Maphaka,RR,NOT_PLAYING,0
+5,BOWL,Ashok Sharma,RR,NOT_PLAYING,0
+6,BOWL,Shamar Joseph,LSG,NOT_PLAYING,0
+6,BOWL,Prince Yadav,LSG,PLAYING,7
+7,BOWL,Digvesh Singh,LSG,PLAYING,9

@@ -1,0 +1,46 @@
+Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+7,ALL,Rahul Tewatia,GT,PLAYING,6
+7.5,ALL,Nitish Rana,RR,PLAYING,3
+7.5,ALL,Shahrukh Khan,GT,PLAYING,5
+7,ALL,Washington Sundar,GT,X_FACTOR_SUBSTITUTE,12
+6,ALL,Karim Janat,GT,NOT_PLAYING,0
+8,ALL,Wanindu Hasaranga,RR,NOT_PLAYING,0
+8,ALL,Riyan Parag,RR,PLAYING,4
+5.5,ALL,Manav Suthar,GT,NOT_PLAYING,0
+6.5,ALL,Yudhvir Singh Charak,RR,X_FACTOR_SUBSTITUTE,13
+6.5,ALL,Arshad Khan,GT,X_FACTOR_SUBSTITUTE,13
+5.5,ALL,Nishant Sindhu,GT,X_FACTOR_SUBSTITUTE,16
+9,WK,Jos Buttler,GT,PLAYING,3
+9,WK,Sanju Samson,RR,PLAYING,2
+6.5,WK,Anuj Rawat,GT,X_FACTOR_SUBSTITUTE,14
+7.5,WK,Dhruv Jurel,RR,PLAYING,5
+5.5,WK,Kumar Kushagra,GT,NOT_PLAYING,0
+5,WK,Kunal Singh Rathore,RR,X_FACTOR_SUBSTITUTE,16
+8,BAT,Shimron Hetmyer,RR,PLAYING,6
+7.5,BAT,Glenn Phillips,GT,NOT_PLAYING,0
+6.5,BAT,Mahipal Lomror,GT,X_FACTOR_SUBSTITUTE,15
+9,BAT,Shubman Gill,GT,PLAYING,1
+8,BAT,Sherfane Rutherford,GT,PLAYING,4
+8.5,BAT,Yashasvi Jaiswal,RR,PLAYING,1
+8.5,BAT,Sai Sudharsan,GT,PLAYING,2
+6,BAT,Shubham Dubey,RR,X_FACTOR_SUBSTITUTE,12
+5,BAT,Vaibhav Suryavanshi,RR,NOT_PLAYING,0
+7,BOWL,Ishant Sharma,GT,PLAYING,11
+7.5,BOWL,Sandeep Sharma,RR,PLAYING,10
+8,BOWL,Kagiso Rabada,GT,NOT_PLAYING,0
+6.5,BOWL,Jayant Yadav,GT,NOT_PLAYING,0
+7.5,BOWL,Prasidh Krishna,GT,PLAYING,10
+8.5,BOWL,Rashid-Khan,GT,PLAYING,7
+8,BOWL,Mohammed Siraj,GT,PLAYING,9
+8.5,BOWL,Jofra Archer,RR,PLAYING,7
+7.5,BOWL,Ravisrinivasan Sai Kishore,GT,PLAYING,8
+7,BOWL,Tushar Deshpande,RR,PLAYING,11
+6,BOWL,Kulwant Khejroliya,GT,NOT_PLAYING,0
+6.5,BOWL,Gerald Coetzee,GT,NOT_PLAYING,0
+6.5,BOWL,FazalHaq Farooqi,RR,PLAYING,9
+6.5,BOWL,Kumar Kartikeya,RR,X_FACTOR_SUBSTITUTE,14
+7.5,BOWL,Maheesh Theekshana,RR,PLAYING,8
+6.5,BOWL,Akash Madhwal,RR,X_FACTOR_SUBSTITUTE,15
+5.5,BOWL,Kwena Maphaka,RR,NOT_PLAYING,0
+5,BOWL,Ashok Sharma,RR,NOT_PLAYING,0
+5.5,BOWL,Gurnoor Brar Singh,GT,NOT_PLAYING,0
